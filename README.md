@@ -4,6 +4,7 @@ I'm Voidlinux user and I like use dynamic window manager called [DWM](http://dwm
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohammed-Alnahdi&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Alnahdi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Mohammed-Alnahdi/Mohammed-Alnahdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
