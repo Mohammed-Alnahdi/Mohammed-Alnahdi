@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Voidlinux user and I like use dynamic window manager called [DWM](http://dwm.suckless.org/) from [Suckless](http://suckless.org/). I like C programming language and Shell Scripting such as Csh, Bash, and Shell. I am looking also in different kinds of programming languages in both indestory (Web Development and Consol Development). You can see my Note of some courses which I took it [here](https://github.com/Mohammed-Alnahdi/Manual).
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohammed-Alnahdi)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohammed-Alnahdi&show_icons=true&theme=radical)
 <!--
 **Mohammed-Alnahdi/Mohammed-Alnahdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
